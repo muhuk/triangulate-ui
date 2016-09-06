@@ -2,6 +2,8 @@
 
 GUI for triangulate.
 
+![screenshot](screenshot.png "Screenshot")
+
 
 ## Usage
 
